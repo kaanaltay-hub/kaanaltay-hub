@@ -96,7 +96,7 @@ Passionate about transforming complex datasets into clear, actionable insights.
 
 ## 📈 GitHub Analytics  
 
-![GitHub Snake Animation](https://github.com/kaanaltay-hub/kaanaltay-hub/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kaanaltay-hub/kaanaltay-hub/blob/output/github-contribution-grid-snake.gif)
 
 
 ⭐️ *Thank you for visiting my profile!*
