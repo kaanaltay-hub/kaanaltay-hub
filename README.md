@@ -2,35 +2,37 @@
 
 <!-- HEADER / BANNER -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="Data Stream Animation"/>
-</p>
 
 
-<h1 align="center">👋 Hello! I am <strong>Kaan Altay</strong></h1>
-<h3 align="center">Statistician and Data Scientist with experience in analytics, machine learning, and visualization</h3>
+
+<h1 align="center"><strong>Kaan Altay — Data Scientist | E-Commerce Analytics & Forecasting | GenAI & LLM Systems</strong></h1>
 
 ---
 
 ## 🧠 About Me  
 Statistician and Data Scientist with expertise in data analysis, machine learning, and visualization.  
-Skilled in Python, SQL, and modern data science frameworks, I design and deploy end-to-end solutions — from data modeling and exploratory analysis to ML pipelines, deployment, and interactive dashboards.  
-Passionate about transforming complex datasets into clear, actionable insights.
+Skilled in Python, SQL, and modern data science frameworks, I design and deploy end-to-end solutions — from data modeling and exploratory analysis to ML pipelines, deployment, and interactive dashboards. 
 
 ---
 ## 🌐 Social Media (Click on logos😊)
 
-| LinkedIn | Kaggle | GitHub | Portfolio |
-|:--:|:--:|:--:|:--:|
-| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/kaan-altay1/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40"/>](https://www.kaggle.com/kaanaltay1) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/kaanaltay-hub) | [<img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>](https://kaanaltay.com) |
+| LinkedIn |  GitHub | Portfolio |
+|:--:|:--:|:--:|
+| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/kaan-altay1/) |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/kaanaltay-hub) | [<img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>](https://kaanaltay.com) |
 
 ---
+## 🚀 Live Projects & Deployments
 
-## 📊 My Projects  
+| Project | Description | Demo |
+|---------|-------------|------|
+| 🤖 Amazon Analytics Chatbot | RAG + SQL-based Decision Support for Amazon Seller Analytics | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/kaanaltay1/amazon-analytics-chatbot) |
+| 📈 Amazon Buy Box Prediction | ML & Forecasting System for Optimizing Buy Box Performance | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/kaanaltay1/Amazon-Buybox-Prediction-System) |
+| 🛒 Cross-Sell Recommendation System | Apriori-based Product Recommendations for E-Commerce | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/kaanaltay1/Amazon-Cross-Sell-Recommendation-System) |
+| 💬 Sentiment Analysis (Reviews) | NLP System for Product Review Analysis (BERT-based) | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/kaanaltay1/Amazon-Product-Review-Sentiment-Analysis) |
+| 🖼️ Product Image Classifier | Computer Vision Model (MobileNetV2) for Product Classification | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/kaanaltay1/Amazon-Computer-Vision-Classifier) |
+| 🚀 Amazon Revenue Forecasting | Time Series Forecasting (SARIMA, Prophet, XGBoost) | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/kaanaltay1/amazon-revenue-forecasting) |
 
-### 🧩 Exploratory Data Analysis (EDA)
- 
-
+---
 ### 📈 Power BI Projects
 
 
