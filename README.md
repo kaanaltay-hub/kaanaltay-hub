@@ -25,6 +25,7 @@ Skilled in Python, SQL, and modern data science frameworks, I design and deploy 
 
 | Project | Description | Demo |
 |---------|-------------|------|
+| 📦 Olist E-Commerce Analytics Dashboard | End-to-End E-Commerce Analysis with Interactive Streamlit Dashboard (Delivery, Revenue, Customer Insights) | [![Streamlit](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?logo=streamlit&logoColor=white)](https://olist-ecommerce-analysis-cmnxrqmacnthmbtbjfshwq.streamlit.app) |
 | 🤖 Amazon Analytics Chatbot | RAG + SQL-based Decision Support for Amazon Seller Analytics | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/kaanaltay1/amazon-analytics-chatbot) |
 | 📈 Amazon Buy Box Prediction | ML & Forecasting System for Optimizing Buy Box Performance | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/kaanaltay1/Amazon-Buybox-Prediction-System) |
 | 🛒 Cross-Sell Recommendation System | Apriori-based Product Recommendations for E-Commerce | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/kaanaltay1/Amazon-Cross-Sell-Recommendation-System) |
