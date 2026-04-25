@@ -7,14 +7,47 @@
 
 <h1 align="center"><strong>Kaan Altay — Data Scientist | E-Commerce Analytics & Forecasting | ML, GenAI & LLM Systems</strong></h1>
 
+
 ---
 
 ## 🧠 About Me  
-Statistician and Data Scientist with expertise in data analysis, machine learning, and visualization.  
-Skilled in Python, SQL, and modern data science frameworks, I design and deploy end-to-end solutions — from data modeling and exploratory analysis to ML pipelines, deployment, and interactive dashboards. 
+
+Data Scientist specialized in E-Commerce Analytics, Forecasting, and AI-driven systems.  
+I design and deploy end-to-end data solutions — from exploratory analysis and data modeling to scalable machine learning pipelines, GenAI applications, and LLM-powered systems.  
+My work focuses on turning complex data into actionable insights that drive revenue growth, optimize operations, and enhance customer experience.  
+I combine strong analytical thinking with modern technologies to build intelligent, production-ready solutions.
+
+
+## ⚡ Core Expertise
+
+- 🚀 Design and development of data-driven analytics and ML systems  
+- 📊 Revenue, profitability, and KPI-focused analysis  
+- 📈 Time series forecasting, churn, cancellation, and predictive analytics  
+- 🤖 Machine Learning, NLP, Computer Vision & recommendation systems (incl. RAG-based solutions)  
+- 🧠 GenAI & LLM systems (retrieval, prompt engineering, applied AI use cases)  
+- 🛠️ End-to-end implementation with Python, SQL, Power BI, Tableau, and modern ML frameworks  
+
+
+## 🎯 Focus Areas
+
+- E-Commerce Intelligence & Customer Behavior  
+- Forecasting & Decision Support Systems  
+- AI-powered Analytics & Automation  
+
+
+<table>
+  <tr>
+    <td valign="top">⚠️</td>
+    <td>
+      <b>Note:</b> Projects presented here are part of portfolio work.<br>
+      Data has been partially masked and synthetically transformed while preserving analytical structure and business logic.
+    </td>
+  </tr>
+</table>
 
 ---
-## 🌐 Social Media (Click on logos😊)
+
+## 🌐 Connect With Me
 
 | LinkedIn |  GitHub | Portfolio |
 |:--:|:--:|:--:|
@@ -25,13 +58,19 @@ Skilled in Python, SQL, and modern data science frameworks, I design and deploy 
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| 📦 Olist E-Commerce Analytics Dashboard | End-to-End E-Commerce Analysis with Interactive Streamlit Dashboard (Delivery, Revenue, Customer Insights) | [![Streamlit](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?logo=streamlit&logoColor=white)](https://olist-ecommerce-analysis-cmnxrqmacnthmbtbjfshwq.streamlit.app) |
 | 🤖 Amazon Analytics Chatbot | RAG + SQL-based Decision Support for Amazon Seller Analytics | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/kaanaltay1/amazon-analytics-chatbot) |
 | 📈 Amazon Buy Box Prediction | ML & Forecasting System for Optimizing Buy Box Performance | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/kaanaltay1/Amazon-Buybox-Prediction-System) |
 | 🛒 Cross-Sell Recommendation System | Apriori-based Product Recommendations for E-Commerce | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/kaanaltay1/Amazon-Cross-Sell-Recommendation-System) |
 | 💬 Sentiment Analysis (Reviews) | NLP System for Product Review Analysis (BERT-based) | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/kaanaltay1/Amazon-Product-Review-Sentiment-Analysis) |
 | 🖼️ Product Image Classifier | Computer Vision Model (MobileNetV2) for Product Classification | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/kaanaltay1/Amazon-Computer-Vision-Classifier) |
 | 🚀 Amazon Revenue Forecasting | Time Series Forecasting (SARIMA, Prophet, XGBoost) | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/kaanaltay1/amazon-revenue-forecasting) |
+
+
+## 🟢 Interactive Analytics Dashboards (Python / Streamlit)
+
+| Project | Description | Demo |
+|--------|-------------|------|
+| 📦 Olist E-Commerce Analytics Dashboard | End-to-end e-commerce analysis with an interactive Streamlit dashboard (Delivery, Revenue, Customer Insights), developed using Python & Streamlit | [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://olist-ecommerce-analysis-cmnxrqmacnthmbtbjfshwq.streamlit.app) |
 
 ---
 ### 📈 Power BI Projects
