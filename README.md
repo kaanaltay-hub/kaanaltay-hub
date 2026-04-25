@@ -71,6 +71,7 @@ I combine strong analytical thinking with modern technologies to build intellige
 | Project | Description | Demo |
 |--------|-------------|------|
 | 📦 Olist E-Commerce Analytics Dashboard | End-to-end e-commerce analysis with an interactive Streamlit dashboard (Delivery, Revenue, Customer Insights), developed using Python & Streamlit | [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://olist-ecommerce-analysis-cmnxrqmacnthmbtbjfshwq.streamlit.app) |
+| 🩺 Stroke Risk Analytics Dashboard | Hypothesis-driven analysis of clinical and demographic risk factors for strokes with an interactive healthcare dashboard (Age, Hypertension, Glucose, BMI, Risk Segmentation) | [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://stroke-risk-analytics-dashboard-iav7fyejdwuwexncfzmgas.streamlit.app) |
 
 ---
 ### 📈 Power BI Projects
