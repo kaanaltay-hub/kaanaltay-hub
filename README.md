@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center"><strong>Kaan Altay — Data Scientist | E-Commerce Analytics & Forecasting | GenAI & LLM Systems</strong></h1>
+<h1 align="center"><strong>Kaan Altay — Data Scientist | E-Commerce Analytics & Forecasting | ML, GenAI & LLM Systems</strong></h1>
 
 ---
 
