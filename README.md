@@ -49,9 +49,9 @@ I combine strong analytical thinking with modern technologies to build intellige
 
 ## 🌐 Connect With Me
 
-| LinkedIn |  GitHub | Portfolio |
-|:--:|:--:|:--:|
-| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/kaan-altay1/) |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/kaanaltay-hub) | [<img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>](https://kaanaltay.com) |
+| Portfolio |  GitHub | LinkedIn | Hugging Face |
+|:--:|:--:|:--:|:--:|
+| [<img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>](https://kaanaltay.com) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/kaan-altay1/) |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/kaanaltay-hub) | [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>](https://huggingface.co/kaanaltay1)|
 
 ---
 ## 🚀 Live Projects & Deployments
