@@ -75,8 +75,11 @@ I combine strong analytical thinking with modern technologies to build intellige
 
 ---
 ### 📈 Power BI Projects
-
-
+| Project | Description | Code |
+|--------|-------------|------|
+| 📊 Amazon Revenue & Profitability Analysis | KPI Dashboard, Churn, Cancellation, and Revenue Analysis | [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white)](https://github.com/kaanaltay-hub/amazon-revenue-profit-cancel-churn-analysis) |
+| 📈 Amazon Sales Analytics | Optimization, Forecasting, and Decision Support | [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white)](https://github.com/kaanaltay-hub/amazon-sales-analytics-powerbi-optimization-forecasting) |
+|🛒 Amazon Marketplace Analytics	 | Product Performance, Buy Box Proxy, and Revenue Impact | [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white)](https://github.com/kaanaltay-hub/-Amazon-Marketplace-Analytics-Product-Performance-Buy-Box-Proxy-Revenue-Impact-Analysis)
 ---
 
 ## ⚙️ Skills / Tech Stack  
