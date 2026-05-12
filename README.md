@@ -96,7 +96,7 @@ I combine strong analytical thinking with modern technologies to build intellige
 
 | NLP | Generative AI | RAG | Recommendation | Computer Vision |
 |:--:|:--:|:--:|:--:|:--:|
-| <img src="https://cdn-icons-png.flaticon.com/512/10306/10306045.png" width="45"/>| <img src="https://copilot.microsoft.com/th/id/BCO.e8d67cd2-2c73-4708-8e14-30be6b443aa0.png" width="65"/>| <img src="https://copilot.microsoft.com/th/id/BCO.b5bef970-bf3b-4af3-8e1d-3ac502e2226f.png" width="85"/>| <img src="https://cdn-icons-png.flaticon.com/512/17220/17220370.png" width="55"/>| <img src="https://cdn-icons-png.flaticon.com/512/16147/16147327.png" width="55"/> |
+| <img src="https://cdn-icons-png.flaticon.com/512/10306/10306045.png" width="45"/>| <img src="https://camo.githubusercontent.com/e08945bc48bf33024db895f8bb8766623b2f9cb9e2dd2de5cbf4520bf78f9fbe/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f343731322f343731323032372e706e67" width="55"/>| <img src="https://camo.githubusercontent.com/a98f2b88abbc345e17b3a5f2cb4ee77301f1f24d8f26fb75eff16b5d5b7132a8/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f343134392f343134393637332e706e67" width="55"/>| <img src="https://cdn-icons-png.flaticon.com/512/17220/17220370.png" width="55"/>| <img src="https://cdn-icons-png.flaticon.com/512/16147/16147327.png" width="55"/> |
 
 ---
 
